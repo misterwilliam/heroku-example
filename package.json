@@ -1,0 +1,22 @@
+{
+  "name": "node-example",
+  "version": "0.0.0",
+  "description": "This example app is so cool.",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/misterwilliam/heroku-example.git"
+  },
+  "author": "misterwilliam",
+  "license": "BSD",
+  "dependencies": {
+    "logfmt": "~1.1.2",
+    "express": "~3.5.1"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
